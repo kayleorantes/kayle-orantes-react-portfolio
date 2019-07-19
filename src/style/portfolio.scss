@@ -17,13 +17,12 @@
             position: absolute;
             top: 0;
             display: flex;
+            right: calc(50% - 65px);
             flex-direction: column;
             justify-content: center;
             align-items: center;
             height: 100%;
             text-align: center;
-            padding-left: 100px;
-            padding-right: 100px;
         
             .subtitle{
                 transition: 1s ease-in-out;
